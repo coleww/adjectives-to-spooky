@@ -1,9 +1,9 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Butt",
+	"name": "2016 Campaign Enhancer",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'my butt'.",
-	"content_scripts": 
+	"description": "Enhances the 2016 presidential campaign. Significantly.",
+	"content_scripts":
 	[
 		{
 			"matches": ["*://*/*"],
