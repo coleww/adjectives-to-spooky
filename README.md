@@ -5,7 +5,7 @@
 
 Chrome extension that makes the presidential campaign way better
 
-[Direct download of crx file](https://github.com/coleww/campaign-2016/blob/master/Source.crx?raw=true)
+[Direct download of crx file](https://github.com/coleww/cloud-to-butts/blob/master/Source.crx?raw=true)
 
 Installation
 ------------
