@@ -5,12 +5,12 @@
 
 Chrome extension that makes the presidential campaign way better
 
-[Direct download of crx file](https://github.com/coleww/campaign-2016/blob/master/Campgin2016.crx?raw=true)
+[Direct download of crx file](https://github.com/coleww/campaign-2016/blob/master/Source.crx?raw=true)
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag Source.crx into the page that appears.
 
 
 DEVELOPMENT
