@@ -1,20 +1,7 @@
-adj-to-spooky
-=============
+CLOUD-TO-BUTT VARIATIONS
+--------------------------
 
-![](ghost.png)
+variations on the [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) maneuver
 
-Chrome extension that replaces adjectives with the word 'spooky'. A fork of [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) that uses a small ~1k list of adjectives to do it's magic.
-
-[Direct download of crx file](https://github.com/coleww/adjectives-to-spooky/blob/master/AdjToSpooky.crx?raw=true)
-
-Installation
-------------
-
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
---------------------------------------
-
-
-# test
-
-exciting overworked woeful
+[adjectives-2-spooky](https://github.com/coleww/cloud-to-butts/tree/adj-2-spooky)
+[campaign2016 ENHANCER](https://github.com/coleww/cloud-to-butts/tree/campaign2016)
