@@ -30,6 +30,8 @@ function walk(node)
 function handleText(textNode)
 {
 	var v = textNode.nodeValue;
+
+	v = v.replace(/\btaxpayer/gi, "lead guitarist");
 	v = v.replace(/\btax/gi, "guitar solo");
 
 
