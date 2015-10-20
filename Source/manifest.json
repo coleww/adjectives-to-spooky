@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "2016 Campaign Enhancer",
+	"name": "tax2guitar-solo",
 	"version": "1.0",
-	"description": "Enhances the 2016 presidential campaign. Significantly.",
+	"description": "replaces the word 'tax' with 'guitar solo'",
 	"content_scripts":
 	[
 		{
