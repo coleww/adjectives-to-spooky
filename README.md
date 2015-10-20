@@ -1,9 +1,9 @@
-2016 find and replace color by numbers
+TAX2GUITAR SOLO
 =============
 
 ![](logo.png)
 
-Chrome extension that makes the presidential campaign way better
+Replaces the word "tax" with "guitar solo"
 
 [Direct download of crx file](https://github.com/coleww/cloud-to-butts/blob/master/Source.crx?raw=true)
 
