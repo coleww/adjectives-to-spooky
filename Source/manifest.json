@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Adjectives to Spooky",
+	"name": "vote2vore",
 	"version": "1.0",
-	"description": "Replaces adjectives with the word 'spooky'.",
+	"description": "tbh i would rather be swallowed alive by a large cartoon cat than vote for any of thee monsters.",
 	"content_scripts":
 	[
 		{
