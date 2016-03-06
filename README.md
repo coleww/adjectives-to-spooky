@@ -1,7 +1,9 @@
-CLOUD-TO-BUTT VARIATIONS
---------------------------
+VOTE-2-VORE
+-----------------------------------------
 
-variations on the [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) maneuver
+TO INSTALL:
 
-[adjectives-2-spooky](https://github.com/coleww/cloud-to-butts/tree/adj-2-spooky)
-[campaign2016 ENHANCER](https://github.com/coleww/cloud-to-butts/tree/campaign2016)
+- download or clone this project
+- open Chrome: Window => Extensions => Load Unpacked Extension
+- select `vote-2-vore/Source`
+
