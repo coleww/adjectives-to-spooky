@@ -1,9 +1,13 @@
-VOTE-2-VORE
+THE DISCOURSE
 -----------------------------------------
+
+
+s/transgender issues/the discourse/
+
 
 TO INSTALL:
 
 - download or clone this project
 - open Chrome: Window => Extensions => Load Unpacked Extension
-- select `vote-2-vore/Source`
+- select `./Source`
 
