@@ -30,5 +30,5 @@ function walk(node)
 
 function handleText(textNode)
 {
-	textNode.nodeValue = textNode.nodeValue.replace(/trans(gender)* issues/gi, 'the discourse')
+	textNode.nodeValue = textNode.nodeValue.replace(/trans(gender)* issues/gi, 'The Discourse')
 }
